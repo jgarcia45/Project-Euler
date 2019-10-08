@@ -22,8 +22,7 @@ public class HelloWorld{
            }
        }
        System.out.println(u);
-         
-         
+                  
      }
      
       public static boolean isPali(int numm) {
@@ -45,7 +44,6 @@ public class HelloWorld{
               return false;
           }
       }
-       
-    
+           
 }
 
